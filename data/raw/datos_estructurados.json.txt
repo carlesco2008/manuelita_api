@@ -1,0 +1,21 @@
+{
+  "contacto": {
+    "teléfono_servicio_cliente": "+57 3 30 2390",
+    "correo_general": "info@manuelita.com",
+    "nit": "890.300.293-1"
+  },
+  "horarios": {
+    "atencion_oficinas": "Lunes a Viernes, 8:00 AM a 5:00 PM",
+    "soporte_linea_etica": "24/7"
+  },
+  "sedes_cali": [
+    {
+      "nombre": "Oficina Principal Cali",
+      "direccion": "Carrera 1 # 2-3, Cali, Valle del Cauca"
+    },
+    {
+      "nombre": "Planta de Producción Palmira",
+      "direccion": "Zona Franca Palmaseca, Bodega 5, Palmira"
+    }
+  ]
+}
